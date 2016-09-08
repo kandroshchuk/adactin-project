@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.sqa.ka</groupId>
-	<artifactId>basic-project</artifactId>
+	<artifactId>adactin-project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Basic Project</name>
-	<description>Basic Project Structure</description>
+	<name>Adactin Project</name>
+	<description>Adactin Project Structure</description>
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
 
 	<dependencies>
